@@ -1,0 +1,6 @@
+start = input("Enter a start word: ")
+end = input("Enter a end word: ")
+words = input("Enter some words: ")
+randoms = input("Enter some random words: ")
+print("Your sentence: ")
+print(start, words, randoms, end)
